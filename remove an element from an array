@@ -1,0 +1,9 @@
+this is code to remove second element from an array.but it does not work 
+function removeEveryOther(arr){
+
+  for(var i=1;i<arr.lengrh;i++)
+  {
+  return arr.splice[i,1];
+  }
+
+}
